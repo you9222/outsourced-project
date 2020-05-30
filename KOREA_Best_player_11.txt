@@ -1,0 +1,20 @@
+Korea_Player1
+Korea_Player2
+Korea_Player3
+Korea_Player4
+Korea_Player5
+Korea_Player6
+Korea_Player7
+Korea_Player8
+Korea_Player9
+Korea_Player10
+Korea_Player11
+
+Korea_Backup1
+Korea_Backup2
+Korea_Backup3
+
+Football_coach : CHA BOOM
+
+(Uniform A )
+(football boot A)

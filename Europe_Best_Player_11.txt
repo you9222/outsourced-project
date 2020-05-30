@@ -1,0 +1,20 @@
+Europe_Player1
+Europe_Player2
+Europe_Player4
+Europe_Player5
+Europe_Player8
+Europe_Player10
+Europe_Player12
+Europe_Player13
+Europe_Player14
+Europe_Player15
+Europe_Player16
+
+Europe_Backup1
+Europe_Backup2
+Europe_Backup3
+
+Football_coach : Jupp Heynckes
+
+(Uniform B )
+(football boot B)
